@@ -61,7 +61,7 @@ const Meals = () => {
                             <div>
                                 <form className={class2.form}>
                                     <Input label="Amount" input={{
-                                        id: 'amount',
+                                        id: 'amount_'+ meals.id,
                                         type: 'number',
                                         min: '1',
                                         max: '5',
