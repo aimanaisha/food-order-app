@@ -7,4 +7,4 @@ const CartContext = React.createContext({
     removeItem: (id) => {}   //All this data isnt actually used,
 })                           // its just used to provide autocompletion
 
-export default CartContext 
+export default CartContext  

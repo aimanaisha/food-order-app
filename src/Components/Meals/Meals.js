@@ -1,7 +1,7 @@
 import classes from "./MealsSummary.module.css";
 import styles from "./AvailableMeals.module.css";
-import Card from "./Card";
-import MealItem from "./MealItem";
+import Card from "../Card";
+import MealItem from "./MealItem.js";
 
 const DUMMY_MEALS = [
   {

@@ -1,4 +1,4 @@
-import Input from './Input.js'
+import Input from '../Input.js'
 import { useRef, useState } from 'react';
 import class2 from './Form.module.css'
 
